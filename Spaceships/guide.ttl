@@ -1,0 +1,24 @@
+ /----------------------------------------------------------------------------\ 
+/     .-. .-. .  . .-.   .-. . . .-. .-. .-. . . .-. .-. .-. .-. . . .-.       \
+|     ._  |-| |\/| |-     |  |\| `-.  |  |(  | | |    |   |  | | |\| `-.       |
+|     `-' ` ' '  ` `-'   `-' ' ` `-'  '  ' ' `-' `-'  '  `-' `-' ' ` `-'       |
+|==============================================================================|
+|     Controls      |                                          |    Legend     |
+|-------------------| You are the pilot of two of mankind's    |---------------|
+|            ^^     | most advanced spaceships. You must       |               |
+|   ^        ||     | navigate them through mazes. In space.   |               |
+|   i     <- ## ->  | Overcome the maze's puzzles and reach    | ## Large      |
+| <j l>   <- ## ->  | the exit as fast as possible.            | ## ship       |
+|   m        ||     |                                          |               |
+|   v        vv     | Each of the maze's items can be pushed   | @@ Small ship |
+|-------------------| by ships equal to or larger than its  .  |               |
+|                   | size. Larger items, up to size 6, can be | X  Exit       |
+|   ^        ^^     | moved if both ships push simulatneously. |               |
+|   w        ||     |                                          | +  Wall       |
+| <a d>   <- @@ ->  | Careful! Items can fall down if they are |               |
+|   x        ||     | not rested on a ship or a wall. If an    | 1             |
+|   v        VV     | item freefalls on a ship, the ship       | .             |
+|                   | explodes, unless it's a small, one tile  | .  Items      |
+|    @            @ | sized item, that falls on the large,     | .             |
+| z: @ --> @@ --> @ | armored ship.    Good luck space ranger! | 9             |
+\                   |                                          |               / \----------------------------------------------------------------------------/

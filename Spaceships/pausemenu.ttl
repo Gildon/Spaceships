@@ -1,0 +1,12 @@
++------------------------------+
+|          GAME PAUSED         |
++------------------------------+
+|                              |
+| 1.   Restart level           |
+| 2.   Save and return to menu |
+| 3.   Show level solution     |
+|                              |
+| 8.   Return to main menu     |
+| 9.   Quit game               |
+|                              |
++------------------------------+
